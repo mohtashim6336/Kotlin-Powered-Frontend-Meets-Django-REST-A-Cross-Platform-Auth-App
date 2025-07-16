@@ -91,4 +91,3 @@ private const val BASE_URL = "http://10.0.2.2:8000/"
 - Verify token configuration
 - Check authorization headers
 
-GitHub:https://github.com/mohtashim6336/Kotlin-Powered-Frontend-Meets-Django-REST-A-Cross-Platform-Auth-App
