@@ -6,7 +6,7 @@ Full-stack authentication system with Django REST Framework backend and Android 
 
 1. Install dependencies:
 ```bash
-<br>
+
 pip install django djangorestframework django-cors-headers djangorestframework-simplejwt
 
 2. Configure Django:
