@@ -61,7 +61,7 @@ private const val BASE_URL = "http://10.0.2.2:8000/"
 1. Start Django server
 2. Launch Android emulator
 3. Run app
-4. Try registering/logging in
+4. Try register/logging in
 
 ## Requirements
 
